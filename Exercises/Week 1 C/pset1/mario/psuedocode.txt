@@ -1,0 +1,11 @@
+******************
+program to build a pyramid as high and wide in #s as the user inputs
+******************
+
+1. Get user input (integer between 1-8)
+2. store input into variable called WIDTH(w)
+3. create variable called SPACES set = to w -1
+4. create variable called #s set = 1 
+5. do : print(space + #s)
+6. spaces-- , #s++ 
+7.  while spaces > -1
